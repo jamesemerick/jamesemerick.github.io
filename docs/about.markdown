@@ -25,9 +25,12 @@ importantly, though, I am excited by getting those systems out of the lab and do
 useful work in the real world.
 
 In my current professional role, I collaborate with an extremely talented and
-multidisciplinary team at Autodesk Research. We're working on building adaptive robotics
-systems for the manufacturing and AEC industries. This is a sweet spot of
-hardware/software systems that push the boundary of today's technical limitations.
+multidisciplinary team at Autodesk Research. We are investigating and building adaptive
+robotics systems for the manufacturing and AEC industries. On any given day I could be
+writing hardware drivers or robotics infrastructure code, manipulating CAD models,
+reading research papers, or helping robots interact with the world around them in the
+lab. This is a sweet spot of hardware/software systems that push the boundary of today's
+technical limits.
 
 ***
 
