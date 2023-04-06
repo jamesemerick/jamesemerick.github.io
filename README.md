@@ -5,6 +5,7 @@ James' GitHub Pages Site
 
 Build and deploy for local testing
 ```
+$ cd docs/
 $ bundle install
 $ bundle exec jekyll serve
 ```

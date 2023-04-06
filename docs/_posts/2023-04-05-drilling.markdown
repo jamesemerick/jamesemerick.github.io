@@ -1,0 +1,84 @@
+---
+layout: post
+title:  "Drilling"
+date:   2023-04-05 00:00:00 +0000
+categories: blog
+---
+
+> Drilling is a cutting process where a drill bit is spun to cut a hole of circular
+cross-section in solid materials
+_([wikipedia](https://en.wikipedia.org/wiki/Drilling))_.
+
+No, not that one… though the engineer in me does appreciate it.
+
+Let's try again:
+
+> The term drill and practice is defined as a method of instruction characterized by
+systematic repetition of concepts, examples, and practice problems. Drill and practice
+is a disciplined and repetitious exercise, used as a mean of teaching and perfecting a
+skill or procedure
+_([reference](https://link.springer.com/referenceworkentry/10.1007/978-1-4419-1428-6_706))_.
+
+Ah yes, this one.
+
+Drilling is something most associated in my mind with youth sports and elementary
+school. Growing up playing baseball I can’t count the number of times I practiced my
+swing or pitching motion. I can still remember learning how to write cursive (does
+anyone use that anymore?) writing the same letters one after the other for what felt
+like hours. What about a more 21st century skill — learning to type? My middle
+school computer lab had typing games where we would hit the same keystroke combinations
+over and over in order to build muscle memory.
+
+Post-primary school, the dry repetition of drilling seems to have fallen out of style. A
+few things I've heard in my own head and from others -- "why are you doing
+the same thing over and over?" and "aren't there more interesting or creative pursuits
+worth following?" Similarly, critical thinking is regarded as a more valuable skill than
+rote memorization. I agree. The ability to think for and tackle unforeseen problems is
+invaluable. But what is the difference between memorization and critical thinking? Can
+you have one without the other?
+
+> Similar to memorization, drill and practice involves repetition of specific skills,
+such as spelling or multiplication. To develop or maintain one’s specific skills, the
+sub-skills built through drill and practice should become the building blocks for more
+meaningful learning
+_([reference](https://link.springer.com/referenceworkentry/10.1007/978-1-4419-1428-6_706))_.
+
+Now we're talking. Drilling and practice provides a foundation to build higher level
+skills and thinking.
+
+Back to the baseball analogy -- a player should have a reliable and robust swing where
+they are comfortable hitting off of a tee before facing a live pitcher. They must be
+proficient at hitting a ball thrown right down the middle before expanding to hit
+anything within the strike zone. They must be able to hit 4-seam fastballs before
+breaking pitches. They must be able to make contact before adding power. These are all
+skills that are acquired through drilling, with each preceding skill providing a stable
+foundation upon which to grow.
+
+Before you can start writing complete sentences and words you need to be able to write
+just the letters. You shouldn't have to think about the shape of a letter in order to
+write it nor should you need to think hard about the spelling of commonly used words. In
+fact, it would be quite inefficient and time-consuming to do so.
+
+There's a phrase I heard and probably mangled that comes to mind (apologies for the lack
+of proper attribution):
+
+> Sometimes you need to learn the science before you can learn the art.
+
+I interpret and use this in a few ways. Regarding drilling, I take it to mean that
+proficiency of the core fundamentals comes before adding complexity or creativity.
+Discipline and repetition are the how proficiency is gained.
+
+Yes, drilling makes sense in sports. It also makes sense for learning language and basic
+arithmetic.
+
+What about in other areas of life? What about writing code? Designing mechanical
+systems?
+
+I wouldn't call myself an artist but I imagine most artists have their basic
+brush strokes and penmanship pretty well drilled. I'm no heavy equipment operator
+either, but I've watched masters at their craft move an excavator like it is an
+extension of their body. This takes skill and nuance but a lot of good old fashioned
+repetition and drilling. In other words -- training.
+
+Drilling is something I want to be more intential about in all areas. It takes
+repetition and discipline to practice. I'll call this meta-drilling.
