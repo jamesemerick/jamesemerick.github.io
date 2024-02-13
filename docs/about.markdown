@@ -26,7 +26,7 @@ intersection of hardware, software, and the cutting edge of what is possible. Mo
 importantly, though, I am excited by getting those systems out of the lab and doing
 useful work in the real world.
 
-I am now the co-founder of [Cosmic Robotics](https://www.cosmicrobotics.com/) where we are building 
+I am now a co-founder of [Cosmic Robotics](https://www.cosmicrobotics.com/) where we are building 
 robots to enable autonomous construction on Earth and beyond. We're in the early stages and I couldn't 
 be more excited to build. 
 
